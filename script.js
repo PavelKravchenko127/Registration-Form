@@ -28,5 +28,5 @@ function registerWithGoogle() {
 
 function registerWithGitHub() {
     // Дополнительная логика для регистрации через GitHub
-    console.log('Register Wit GitHub');
+    console.log('Register With GitHub');
 }
